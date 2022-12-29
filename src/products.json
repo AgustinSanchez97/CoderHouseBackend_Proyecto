@@ -1,0 +1,32 @@
+[
+	{
+		"title": "qwe",
+		"description": "String",
+		"code": "String",
+		"price": 250,
+		"status": true,
+		"stock": "String",
+		"category": "String",
+		"id": 0
+	},
+	{
+		"title": "rty",
+		"description": "String",
+		"code": "String",
+		"price": 250,
+		"status": true,
+		"stock": "String",
+		"category": "String",
+		"id": 1
+	},
+	{
+		"title": "asd",
+		"description": "String",
+		"code": "String",
+		"price": 250,
+		"status": true,
+		"stock": "String",
+		"category": "String",
+		"id": 2
+	}
+]
